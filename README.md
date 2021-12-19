@@ -50,7 +50,7 @@ It uses the following technologies:
 - Socket.io
 - psutil
 - Bootstrap 5
-- Pure JS.
+- JavaScript
 
 For the HTML style no custom CSS was used, only Bootstrap.
 
