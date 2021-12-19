@@ -31,6 +31,8 @@ python3 main.py # linux
 py main.py      # windows
 ```
 
+Once it is running, you can access to the web interface from your browser. By default, it listens in all interfaces on port 80 (can be changed in `const.py`).
+
 ## How it works
 
 It gets stats about CPU, RAM, disks and network every second (can be configured in `const.py` file, < 0.5s not recommended).
